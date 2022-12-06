@@ -10,12 +10,12 @@ The goal of this practical project is to research about the DevOps methodologies
 +	AWS cloud services: AWS EC2, AWS Elastic Load Balancer (ELB), AWS Auto Scaling Group (ASG), AWS Launch Configuration, AWS Simple Storage Service (AWS S3), AWS Relational Database Service (RDS), AWS Identity and Access Management (IAM), AWS Security Group, AWS CloudWatch
 ####
 + AWS Cloud Architecture
-[alt-text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/aws-cloud-architecture.jpg)
+![alt_text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/aws-cloud-architecture.jpg)
 
 ####
 + CI/CD Pineline - Brief Diagram
-[alt-text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/cicd-diagram-1.jpg)
+![alt_text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/cicd-diagram-1.jpg)
 
 ####
 + CI/CD Pineline - Detail Diagram
-[alt-text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/cicd-diagram-2.jpg)
+![alt_text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/cicd-diagram-2.jpg)
