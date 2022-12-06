@@ -14,7 +14,7 @@ The goal of this practical project is to research about the DevOps methodologies
 
 ####
 + CI/CD Pineline - Brief Diagram
-![alt_text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/cicd-diagram-1.jpg)
+![alt_text](https://github.com/zkl21hoang/devops-cicd-project/blob/main/images/cicd-diagram.png)
 
 ####
 + CI/CD Pineline - Detail Diagram
