@@ -2,6 +2,9 @@
 ####
 The goal of this practical project is to research about the DevOps methodologies to design and create a solid CI/CD pipeline architecture for software development lifecycle that can be well integrated with AWS services in cloud environment to provide the scalability, high availability and fault-tolerance for the application while still delivering the capability of automating seven phases of continuous integration and continuous delivery including planning, coding, building, testing, releasing, deploying and operating phases. Each component in this project is implemented with specifically-designed policy and access control by utilizing the AWS Identity and Access Management (AWS IAM) and AWS Security Group to harden whole system and mitigate the security risk. 
 
+#### Source-code Repository:
+https://github.com/zkl21hoang/devops-project
+
 #### Technology:
 +	CI/CD Tool: Jenkins
 +	Source-code hosting platform: GitHub repository
